@@ -1,0 +1,8 @@
+doc/*
+out/*
+.idea/*
+
+*.iml
+all.json
+translation.json
+/src/leetcode/editor/cn/doc/
